@@ -1,6 +1,8 @@
 # P2000T Simple Cartridge
 
-[![build](https://github.com/ifilot/https://github.com/ifilot/p2000t-simple-cartridge/actions/workflows/build.yml/badge.svg)](https://github.com/ifilot/https://github.com/ifilot/p2000t-simple-cartridge/actions/workflows/build.yml)
+[![build](https://github.com/ifilot/p2000t-simple-cartridge/actions/workflows/build.yml/badge.svg)](https://github.com/ifilot/p2000t-simple-cartridge/actions/workflows/build.yml)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Purpose
 
