@@ -2,6 +2,15 @@
 ; "hello_world.asm"
 ;
 ; This is an example Hello World assembly file
+; -------------------------------------------------
+; NOTE:
+; The "byte count" and "checksum" fields below are set to 0.
+; This is intentional — for simplicity and quick prototyping.
+; When both are zero, effectively no bytes are read, and the
+; checksum trivially evaluates to zero.
+; In a proper finalized cartridge or binary header, these
+; fields should reflect the actual byte count and computed checksum.
+; -------------------------------------------------
     org 0x1000
 
     ; signature, byte count, checksum
